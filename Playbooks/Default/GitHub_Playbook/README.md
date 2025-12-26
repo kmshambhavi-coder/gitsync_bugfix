@@ -1,6 +1,5 @@
 # GitHub_Playbook
-This is a test playbook to check if it is working fine with space and 
-What if it contains a line break or enter
+<p>This is a test playbook to ensure if we are putting <br>enter and </p>\n What if it contains a line break
 
 
 
