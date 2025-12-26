@@ -7,7 +7,8 @@
         "Playbook": {
             "BitBucket_playbook": "Jinja",
             "GitHub_Playbook": "Jinja",
-            "GitHub Playbook": "Jinja"
+            "GitHub Playbook": "Jinja",
+            "Playground GitHub": "Jinja"
         },
         "Connector": {},
         "Job": {}
