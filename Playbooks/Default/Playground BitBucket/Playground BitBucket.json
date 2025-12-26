@@ -1,26 +1,26 @@
 {
     "hasRestrictedEnvironments": false,
     "id": 0,
-    "identifier": "50b57a0b-9510-4b26-9a31-22025976b81f",
+    "identifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
-    "name": "Playground GitHub",
+    "name": "Playground BitBucket",
     "creator": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "modifiedBy": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "priority": 2,
-    "description": "<p>This is HTML tag,<br>testing for playbook.</p> \\n new line test",
+    "description": "<p>Roses are red,<br>Violets are blue.</p> \\n test",
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "50b57a0b-9510-4b26-9a31-22025976b81f",
-    "creationTimeUnixTimeInMs": 1766750246116,
-    "modificationTimeUnixTimeInMs": 1766753674820,
+    "originalPlaybookIdentifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
+    "creationTimeUnixTimeInMs": 1766751618973,
+    "modificationTimeUnixTimeInMs": 1766752339397,
     "trigger": {
         "id": 0,
-        "identifier": "7e2d481a-c09f-45b9-b6f6-38eab5734f8e",
+        "identifier": "f2f44142-0189-43cd-8fd6-7af802c22003",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -34,8 +34,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "48c23962-7bbe-41e4-9ddf-97f9bf022520",
-            "originalStepIdentifier": "48c23962-7bbe-41e4-9ddf-97f9bf022520",
+            "identifier": "3b5673b9-fccc-4056-9fbc-b29a5d01df00",
+            "originalStepIdentifier": "3b5673b9-fccc-4056-9fbc-b29a5d01df00",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "GitSync_Ping_1",
@@ -195,12 +195,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "50b57a0b-9510-4b26-9a31-22025976b81f",
+            "workflowIdentifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766753674747,
-            "modificationTimeUnixTimeInMs": 1766753674820,
+            "creationTimeUnixTimeInMs": 1766752339342,
+            "modificationTimeUnixTimeInMs": 1766752339397,
             "additionalProperties": {}
         }
     ],
