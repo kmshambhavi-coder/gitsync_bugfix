@@ -1,15 +1,15 @@
 {
     "hasRestrictedEnvironments": false,
     "id": 0,
-    "identifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
-    "version": "1",
+    "identifier": "c0bcd7de-9a2f-4040-9cc8-ae5edf7b050d",
+    "version": "0",
     "isEnabled": true,
     "isDebugMode": false,
     "name": "Playground BitBucket",
     "creator": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "modifiedBy": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "priority": 2,
-    "description": "<p>Roses are red,<br>Violets are blue.</p> \\n test",
+    "description": "Testing with Remote agent and Playbook are working fine\nWhat if it contains line break",
     "environments": [
         "Default Environment"
     ],
@@ -17,10 +17,10 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
     "creationTimeUnixTimeInMs": 1766751618973,
-    "modificationTimeUnixTimeInMs": 1766752339397,
+    "modificationTimeUnixTimeInMs": 1766991970618,
     "trigger": {
         "id": 0,
-        "identifier": "f2f44142-0189-43cd-8fd6-7af802c22003",
+        "identifier": "74e985c0-61af-4d5c-8ba9-ddfea9bda564",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -34,7 +34,7 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "3b5673b9-fccc-4056-9fbc-b29a5d01df00",
+            "identifier": "34cca32e-7954-4e60-89c6-aec756a4c33e",
             "originalStepIdentifier": "3b5673b9-fccc-4056-9fbc-b29a5d01df00",
             "isAutomatic": true,
             "isSkippable": false,
@@ -103,7 +103,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "e91977e6-c0a1-45fa-a6da-21a011f2ab43",
+                    "value": "4fa85a8f-b24a-490c-b6d5-e0c90bf9afed",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -111,7 +111,7 @@
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
                     "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "InstanceDisplayName": null
                 },
                 {
                     "name": "MessageToAssignee",
@@ -195,12 +195,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
+            "workflowIdentifier": "c0bcd7de-9a2f-4040-9cc8-ae5edf7b050d",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766752339342,
-            "modificationTimeUnixTimeInMs": 1766752339397,
+            "creationTimeUnixTimeInMs": 1766991970557,
+            "modificationTimeUnixTimeInMs": 1766991970618,
             "additionalProperties": {}
         }
     ],
