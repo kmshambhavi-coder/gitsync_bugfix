@@ -111,7 +111,7 @@
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
                     "additionalProperties": {},
-                    "InstanceDisplayName": null
+                    "InstanceDisplayName": "Gitsync-github"
                 },
                 {
                     "name": "MessageToAssignee",
