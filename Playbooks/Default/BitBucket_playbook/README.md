@@ -1,5 +1,6 @@
 # BitBucket_playbook
-<p>This is a test playbook to ensure if we are putting <br>enter and </p>\n What if it contains a line break
+This is a test playbook to ensure if we are putting enter and 
+What if it contains a line break
 
 
 
